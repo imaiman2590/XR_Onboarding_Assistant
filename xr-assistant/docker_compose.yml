@@ -1,0 +1,22 @@
+version: '3.9'
+
+services:
+  backend:
+    build:
+      context: ./backend  
+    container_name: xr-backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend:/app
+    env_file:
+      - ./backend/.env
+
+  frontend:
+    build:
+      context: ./frontend  
+    container_name: xr-frontend
+    ports:
+      - "3000:3000"
+    stdin_open: true
+    tty: true

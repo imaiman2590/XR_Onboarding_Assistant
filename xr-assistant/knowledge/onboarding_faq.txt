@@ -1,0 +1,152 @@
+Q: What is the onboarding process?
+A: It includes orientation, IT setup, HR documentation, and team introductions over the first week.
+
+Q: What documents do I need to bring on my first day?
+A: Government-issued ID, address proof, educational certificates, and signed offer letter.
+
+Q: What time should I arrive on my first day?
+A: Please arrive by 9:00 AM at the reception.
+
+Q: Who will be my point of contact during onboarding?
+A: Your assigned onboarding buddy and your HR representative.
+
+Q: How long does onboarding last?
+A: Typically 5 working days, including sessions, setup, and initial training.
+
+Q: What are the working hours?
+A: Standard hours are 9 AM – 6 PM with a 1-hour lunch break.
+
+Q: Are flexible work hours allowed?
+A: Yes, with manager approval, you can set flexible working schedules.
+
+Q: Is remote work allowed?
+A: Yes, hybrid/remote policies apply based on your role and team.
+
+Q: What equipment will I receive?
+A: You’ll receive a laptop, mouse, charger, and access credentials.
+
+Q: How do I log in to my company email?
+A: Use the company email ID and temporary password provided by IT.
+
+Q: How do I access the internal VPN?
+A: Use Cisco AnyConnect with credentials provided in your welcome email.
+
+Q: Who do I contact for IT issues?
+A: Reach out to IT support at helpdesk@company.com or call x120.
+
+Q: What is the dress code?
+A: Business casual unless otherwise instructed.
+
+Q: How do I reset my password?
+A: Use the self-service password portal or contact IT support.
+
+Q: Where is the employee handbook?
+A: It's hosted on the Notion HR space under “Onboarding”.
+
+Q: What are my login credentials?
+A: You’ll receive a credentials sheet via email from the IT team.
+
+Q: When will I get access to project tools?
+A: Typically by Day 2 after account provisioning is completed.
+
+Q: What is the company’s leave policy?
+A: 18 paid leaves, 12 sick leaves, and 10 public holidays per year.
+
+Q: How do I apply for leave?
+A: Submit your leave request through the HRMS portal.
+
+Q: Can I carry over unused leaves?
+A: Yes, up to 5 unused leaves can be carried over annually.
+
+Q: Is there a probation period?
+A: Yes, 3 months from your joining date.
+
+Q: What are the probation evaluation criteria?
+A: Attendance, performance, and behavior alignment with company culture.
+
+Q: Will I get medical insurance?
+A: Yes, the company provides group medical insurance after joining.
+
+Q: How do I nominate dependents for insurance?
+A: You can update dependent details in the HRMS system post-login.
+
+Q: How do I reach HR?
+A: Email hr@company.com or raise a ticket in the HRMS.
+
+Q: Where is the cafeteria located?
+A: On the ground floor next to the main lobby.
+
+Q: Do I get food allowance?
+A: Yes, INR 1,500 per month is added to your food card.
+
+Q: What is the reimbursement process?
+A: Upload bills in the HRMS > Reimbursements section.
+
+Q: Who is my reporting manager?
+A: You will be informed during your orientation or via welcome email.
+
+Q: When is my first performance review?
+A: After the probation period (typically 3 months).
+
+Q: Can I access the office on weekends?
+A: With manager approval and building access card only.
+
+Q: How do I get my access card?
+A: You’ll receive it during Day 1 onboarding or from admin desk.
+
+Q: What’s the Wi-Fi password?
+A: It will be shared in your orientation welcome kit.
+
+Q: Where can I park my vehicle?
+A: Parking is available on a first-come basis—register via the admin portal.
+
+Q: Are there any learning platforms?
+A: Yes, we use Coursera and our internal LMS for training.
+
+Q: How do I register for trainings?
+A: Via LMS portal link shared during onboarding.
+
+Q: Is there a mentorship program?
+A: Yes, you will be matched with a mentor during onboarding.
+
+Q: Who do I contact for payroll issues?
+A: Email payroll@company.com or raise a ticket in HRMS.
+
+Q: When is salary credited?
+A: On the last working day of each month.
+
+Q: What are the official communication channels?
+A: Email, Slack, Notion, and Jira for task management.
+
+Q: Where is my desk?
+A: Assigned desk details will be provided by admin on Day 1.
+
+Q: Can I work from a different office?
+A: Yes, with manager and admin approval.
+
+Q: What should I do if I’m sick on my first day?
+A: Inform HR and your manager; reschedule onboarding via email.
+
+Q: How do I update my personal details?
+A: Use the HRMS portal under “My Profile.”
+
+Q: What is expected in the first 30 days?
+A: Attend onboarding sessions, complete training, and start shadowing projects.
+
+Q: What is the company culture like?
+A: Collaborative, inclusive, and innovation-driven.
+
+Q: What is the performance review cycle?
+A: Bi-annual performance reviews in June and December.
+
+Q: How do I raise security concerns?
+A: Email security@company.com or use the anonymous reporting tool.
+
+Q: Can I get a copy of the org chart?
+A: Yes, it is available on the company’s internal Notion.
+
+Q: Who do I contact for facilities issues?
+A: Email facilities@company.com or raise a ticket in the support portal.
+
+Q: What is the escalation path for unresolved issues?
+A: Start with your team lead → HR → Department head.
